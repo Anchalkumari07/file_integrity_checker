@@ -1,6 +1,9 @@
 🔐 File Integrity Checker
+
 A simple Python script for a basic File Integrity Checker that monitors changes in files by calculating and comparing their SHA-256 hash values.
+
 🔍 Features
+
 *Baseline hashing using SHA-256
 *Detects changes: added, modified, or deleted files
 *Recursive directory scan
@@ -8,13 +11,16 @@ A simple Python script for a basic File Integrity Checker that monitors changes 
 *Hash comparison for integrity verification
 *Stores baseline in JSON format for easy tracking
 *Lightweight & easy to use Features
+
 📌 Use Cases
+
 =Detect unauthorized file changes
 =Monitor system file integrity
 =Identify malware or tampering
 =Support security audits & compliance (e.g., PCI-DSS)
 =Protect critical config and code files
 =Track changes in sensitive directories
+
 🧰 Requirements
 #Python 3.x (Download from python.org)
 No external libraries required. Uses only built-in modules:

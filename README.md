@@ -22,6 +22,7 @@ A simple Python script for a basic File Integrity Checker that monitors changes 
 =Track changes in sensitive directories
 
 🧰 Requirements
+
 #Python 3.x (Download from python.org)
 No external libraries required. Uses only built-in modules:
 .hashlib
